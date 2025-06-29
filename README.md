@@ -2,7 +2,6 @@
 
 A Python tool to **compute** and **visualize** the exact volume between a true geodesic patch on an ellipsoid and its straight-edge chord triangle.
 
-![Volume Between Geodesic Patch and Flat Triangle](images/volume_plot.png)
 
 ---
 
